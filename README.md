@@ -1,0 +1,1 @@
+AdShield is a powerful and efficient ad blocker designed for Google Chrome. This extension helps users browse the web without the interruption of ads, ensuring a cleaner and faster browsing experience. AdShield blocks intrusive advertisements, pop-ups, and trackers, providing users with enhanced privacy and security online.
